@@ -6,7 +6,7 @@
 
 **Author:** P.-A. Thouvenin, pierreantoine.thouvenin@gmail.com
 
-**Experiments:** to run a representative example of the real data experiments reported in the article, configure and run the `main_real_data.m` script. The script `main_extract_data.m` can be used to extract the hyperspectral data from the raw data file included in the `data/raw_data` folder. An `.mat` file after extraction is provided in the `data` folder.
+**Experiments:** to run a representative example of the real data experiments reported in the article, configure and run the `main_real_data.m` script. The script `main_extract_data.m` can be used to extract the hyperspectral data from the raw data file included in the `data/raw_data` folder. A `.mat` file obtained after data extraction is already provided in the `data` folder.
 
 **Dependencies:** the present codes includes MATLAB functions described in the following publications, and developed by their respective authors.
 
