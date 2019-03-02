@@ -4,7 +4,7 @@
 
 >P.-A. Thouvenin, N. Dobigeon and J.-Y. Tourneret - <strong>A hierarchical Bayesian model accounting for endmember variability and abrupt spectral changes to unmix multitemporal hyperspectral images</strong>, <em>IEEE Trans. Comput. Imag.</em>, vol. 4, no. 1, pp. 32-45, Mar. 2018.
 
-**Author:** P.-A. Thouvenin, pierreantoine.thouvenin@gmail.com
+**Author:** P.-A. Thouvenin, pierreantoine[dot]thouvenin[at]gmail[dot]com
 
 **Experiments:** to run a representative example of the real data experiments reported in the article, configure and run the `main_real_data.m` script. The script `main_extract_data.m` can be used to extract the hyperspectral data from the raw data file included in the `data/raw_data` folder. A `.mat` file obtained after data extraction is already provided in the `data` folder.
 
